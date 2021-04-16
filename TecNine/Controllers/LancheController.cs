@@ -1,13 +1,13 @@
-﻿using LanchesMac.Models;
-using LanchesMac.Repositories;
-using LanchesMac.Repositories.Interfaces;
-using LanchesMac.ViewModels;
+﻿using TecNine.Models;
+using TecNine.Repositories;
+using TecNine.Repositories.Interfaces;
+using TecNine.ViewModels;
 using Microsoft.AspNetCore.Mvc;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 
-namespace LanchesMac.Controllers
+namespace TecNine.Controllers
 {
     public class LancheController : Controller
     {

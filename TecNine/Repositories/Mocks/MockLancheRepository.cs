@@ -1,10 +1,10 @@
-﻿using LanchesMac.Models;
-using LanchesMac.Repositories.Interfaces;
+﻿using TecNine.Models;
+using TecNine.Repositories.Interfaces;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 
-namespace LanchesMac.Repositories.Mocks
+namespace TecNine.Repositories.Mocks
 {
     public class MockLancheRepository : ILancheRepository
     {

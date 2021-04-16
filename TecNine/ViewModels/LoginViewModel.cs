@@ -4,7 +4,7 @@ using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace LanchesMac.ViewModels
+namespace TecNine.ViewModels
 {
     public class LoginViewModel
     {

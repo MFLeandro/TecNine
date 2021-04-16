@@ -1,4 +1,4 @@
-﻿using LanchesMac.Context;
+﻿using TecNine.Context;
 using Microsoft.AspNetCore.Http;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
@@ -6,7 +6,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 
-namespace LanchesMac.Models
+namespace TecNine.Models
 {
     public class CarrinhoCompra
     {

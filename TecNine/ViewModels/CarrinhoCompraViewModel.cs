@@ -1,6 +1,6 @@
-﻿using LanchesMac.Models;
+﻿using TecNine.Models;
 
-namespace LanchesMac.ViewModels
+namespace TecNine.ViewModels
 {
     public class CarrinhoCompraViewModel
     {

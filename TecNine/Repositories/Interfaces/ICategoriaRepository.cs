@@ -1,7 +1,7 @@
-﻿using LanchesMac.Models;
+﻿using TecNine.Models;
 using System.Collections.Generic;
 
-namespace LanchesMac.Repositories.Interfaces
+namespace TecNine.Repositories.Interfaces
 {
     public interface ICategoriaRepository 
     {

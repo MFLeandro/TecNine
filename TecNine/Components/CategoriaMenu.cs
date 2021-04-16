@@ -1,8 +1,8 @@
-﻿using LanchesMac.Repositories.Interfaces;
+﻿using TecNine.Repositories.Interfaces;
 using Microsoft.AspNetCore.Mvc;
 using System.Linq;
 
-namespace LanchesMac.Components
+namespace TecNine.Components
 {
     public class CategoriaMenu : ViewComponent
     {

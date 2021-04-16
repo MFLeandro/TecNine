@@ -1,9 +1,9 @@
-﻿using LanchesMac.Models;
-using LanchesMac.Repositories.Interfaces;
+﻿using TecNine.Models;
+using TecNine.Repositories.Interfaces;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
-namespace LanchesMac.Controllers
+namespace TecNine.Controllers
 {
     public class PedidoController : Controller
     {

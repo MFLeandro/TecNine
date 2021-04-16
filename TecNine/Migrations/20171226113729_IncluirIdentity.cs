@@ -3,7 +3,7 @@ using Microsoft.EntityFrameworkCore.Migrations;
 using System;
 using System.Collections.Generic;
 
-namespace LanchesMac.Migrations
+namespace TecNine.Migrations
 {
     public partial class IncluirIdentity : Migration
     {

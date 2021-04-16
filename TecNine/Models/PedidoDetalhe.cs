@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations.Schema;
 
-namespace LanchesMac.Models
+namespace TecNine.Models
 {
     [Table("PedidoDetalhes")]
     public class PedidoDetalhe

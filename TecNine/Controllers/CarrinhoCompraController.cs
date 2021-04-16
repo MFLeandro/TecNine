@@ -1,11 +1,11 @@
-﻿using LanchesMac.Models;
-using LanchesMac.Repositories.Interfaces;
-using LanchesMac.ViewModels;
+﻿using TecNine.Models;
+using TecNine.Repositories.Interfaces;
+using TecNine.ViewModels;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using System.Linq;
 
-namespace LanchesMac.Controllers
+namespace TecNine.Controllers
 {
     public class CarrinhoCompraController : Controller
     {

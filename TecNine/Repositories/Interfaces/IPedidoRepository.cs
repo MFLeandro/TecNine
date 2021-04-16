@@ -1,6 +1,6 @@
-﻿using LanchesMac.Models;
+﻿using TecNine.Models;
 
-namespace LanchesMac.Repositories.Interfaces
+namespace TecNine.Repositories.Interfaces
 {
     public interface IPedidoRepository
     {

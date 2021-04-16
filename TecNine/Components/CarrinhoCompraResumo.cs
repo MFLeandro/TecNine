@@ -1,8 +1,8 @@
-﻿using LanchesMac.Models;
-using LanchesMac.ViewModels;
+﻿using TecNine.Models;
+using TecNine.ViewModels;
 using Microsoft.AspNetCore.Mvc;
 
-namespace LanchesMac.Components
+namespace TecNine.Components
 {
     public class CarrinhoCompraResumo : ViewComponent
     {

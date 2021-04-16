@@ -1,7 +1,7 @@
-﻿using LanchesMac.Context;
-using LanchesMac.Models;
-using LanchesMac.Repositories;
-using LanchesMac.Repositories.Interfaces;
+﻿using TecNine.Context;
+using TecNine.Models;
+using TecNine.Repositories;
+using TecNine.Repositories.Interfaces;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Http;
@@ -10,7 +10,7 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 
-namespace LanchesMac
+namespace TecNine
 {
     public class Startup
     {

@@ -1,7 +1,7 @@
-﻿using LanchesMac.Models;
+﻿using TecNine.Models;
 using System.Collections.Generic;
 
-namespace LanchesMac.ViewModels
+namespace TecNine.ViewModels
 {
     public class LancheListViewModel
     {

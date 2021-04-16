@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Razor.TagHelpers;
 
-namespace LanchesMac.TagHelpers
+namespace TecNine.TagHelpers
 {
     public class EmailTagHelper : TagHelper
     {

@@ -4,7 +4,7 @@ using Microsoft.Extensions.DependencyInjection;
 using System;
 using System.Threading.Tasks;
 
-namespace LanchesMac.Data
+namespace TecNine.Data
 {
     public static class SeedData
     {

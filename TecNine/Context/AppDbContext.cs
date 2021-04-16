@@ -1,9 +1,9 @@
-﻿using LanchesMac.Models;
+﻿using TecNine.Models;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 
-namespace LanchesMac.Context
+namespace TecNine.Context
 {
     public class AppDbContext : IdentityDbContext<IdentityUser>
     {

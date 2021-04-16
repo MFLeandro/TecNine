@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 
-namespace LanchesMac.Controllers
+namespace TecNine.Controllers
 {
     public class ContatoController : Controller
     {

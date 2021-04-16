@@ -5,11 +5,11 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
-using LanchesMac.Context;
-using LanchesMac.Models;
+using TecNine.Context;
+using TecNine.Models;
 using Microsoft.AspNetCore.Authorization;
 
-namespace LanchesMac.Areas.Admin.Controllers
+namespace TecNine.Areas.Admin.Controllers
 {
     [Area("Admin")]
     [Authorize(Roles = "Admin")]

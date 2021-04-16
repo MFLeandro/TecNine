@@ -1,8 +1,8 @@
-﻿using LanchesMac.Repositories.Interfaces;
-using LanchesMac.ViewModels;
+﻿using TecNine.Repositories.Interfaces;
+using TecNine.ViewModels;
 using Microsoft.AspNetCore.Mvc;
 
-namespace LanchesMac.Controllers
+namespace TecNine.Controllers
 {
     public class HomeController : Controller
     {

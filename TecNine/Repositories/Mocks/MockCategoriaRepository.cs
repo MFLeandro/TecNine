@@ -1,8 +1,8 @@
-﻿using LanchesMac.Models;
-using LanchesMac.Repositories.Interfaces;
+﻿using TecNine.Models;
+using TecNine.Repositories.Interfaces;
 using System.Collections.Generic;
 
-namespace LanchesMac.Repositories.Mocks
+namespace TecNine.Repositories.Mocks
 {
     public class MockCategoriaRepository : ICategoriaRepository
     {

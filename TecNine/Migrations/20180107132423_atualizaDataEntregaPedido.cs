@@ -2,7 +2,7 @@
 using System;
 using System.Collections.Generic;
 
-namespace LanchesMac.Migrations
+namespace TecNine.Migrations
 {
     public partial class atualizaDataEntregaPedido : Migration
     {

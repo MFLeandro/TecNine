@@ -1,11 +1,11 @@
-﻿using LanchesMac.Context;
-using LanchesMac.Repositories.Interfaces;
+﻿using TecNine.Context;
+using TecNine.Repositories.Interfaces;
 using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 
-namespace LanchesMac.Repositories
+namespace TecNine.Repositories
 {
     public class Repository<T> : IRepository<T> where T : class
     {
