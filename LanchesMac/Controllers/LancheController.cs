@@ -22,14 +22,14 @@ namespace LanchesMac.Controllers
 
         public IActionResult List(string categoria)
         {
-            //ViewBag.Categoria1 = "Categoria 1";
-            //ViewData["Categoria2"] = "Categoria 2";
+            ViewBag.Categoria1 = "Categoria 1";
+            ViewData["Categoria2"] = "Categoria 2";
 
-            //LancheListViewModel vm = new LancheListViewModel();
-            //vm.Lanches = _lancheRepository.Lanches;
-            //vm.CategoriaAtual = "Categoria do Lanche";
+            LancheListViewModel vm = new LancheListViewModel();
+            vm.Lanches = _lancheRepository.Lanches;
+            vm.CategoriaAtual = "Nossos Produtos";
 
-            //return View(vm);
+            return View(vm);
 
             string _categoria = categoria;
             IEnumerable<Lanche> lanches;
