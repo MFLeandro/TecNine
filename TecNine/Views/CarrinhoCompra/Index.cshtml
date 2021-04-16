@@ -7,7 +7,7 @@
         <thead>
             <tr>
                 <th>Quantidade</th>
-                <th>Lanche</th>
+                <th>Produto</th>
                 <th class="text-right">Preço</th>
                 <th class="text-right">Subtotal</th>
                 <th></th>
@@ -42,7 +42,7 @@
             <a class="btn btn-success" asp-controller="Pedido" asp-action="Checkout">Encerrar Pedido</a>
             <a class="btn-group">
                 <a class="btn btn-default dropdown-toggle" data-toggle="dropdown">
-                    Adicionar mais lanches<span class="caret"></span>
+                    Adicionar mais produtos<span class="caret"></span>
                 </a>
                 <ul class="dropdown-menu" role="menu">
                     <li><a asp-controller="Lanche" asp-action="List" asp-route-categoria="Normal">Normal</a></li>
